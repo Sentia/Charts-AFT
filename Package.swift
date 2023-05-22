@@ -3,7 +3,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "Charts",
+    name: "DGCharts",
     platforms: [
           .iOS(.v9),
           .tvOS(.v9),

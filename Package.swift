@@ -11,11 +11,11 @@ let package = Package(
     ],
     products: [
         .library(
-            name: "Charts",
-            targets: ["Charts"]),
+            name: "DGCharts",
+            targets: ["DGCharts"]),
     ],
     targets: [
-        .target(name: "Charts")
+        .target(name: "DGCharts")
     ],
     swiftLanguageVersions: [.v5]
 )
